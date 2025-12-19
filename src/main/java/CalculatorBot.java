@@ -6,7 +6,7 @@ public class CalculatorBot {
             case "add":
                 return a + b;
             case "sub":
-                return a ;
+                return a-b ;
             case "mul":
                 return a * b;
             case "div":
